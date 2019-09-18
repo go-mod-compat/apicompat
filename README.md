@@ -21,7 +21,7 @@ Secondary tasks could include:
 Try at [abicheck.bradleyf.id.au](https://abicheck.bradleyf.id.au/) or via CLI:
 
 ```
-go get -u github.com/bradleyfalzon/apicompat/cmd/apicompat
+go get -u github.com/go-mod-compat/apicompat/cmd/apicompat
 cd /your/project/dir/with/committed/changes
 apicompat
 ```

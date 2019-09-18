@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/bradleyfalzon/apicompat"
+	"github.com/go-mod-compat/apicompat"
 )
 
 const (
